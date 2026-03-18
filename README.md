@@ -1,8 +1,8 @@
 # 📊 E-commerce Analytics Dashboard
 
-Projeto de Business Intelligence desenvolvido como parte do meu portfólio profissional em Data Analytics.
+Projeto de **Business Intelligence** desenvolvido para análise de desempenho de um marketplace de e-commerce utilizando dados públicos da Olist.
 
-O objetivo deste projeto é demonstrar habilidades em **análise de dados, modelagem, SQL e construção de dashboards analíticos com Power BI**, transformando dados brutos em insights de negócio.
+Este projeto faz parte do meu **portfólio profissional em Data Analytics**, demonstrando habilidades em **SQL, modelagem de dados, análise exploratória e construção de dashboards analíticos utilizando Power BI**, transformando dados brutos em insights estratégicos de negócio.
 
 ---
 
@@ -15,7 +15,7 @@ Analisar o desempenho de um marketplace de e-commerce sob diferentes perspectiva
 - Eficiência logística
 - Experiência do consumidor
 
-A análise busca gerar **insights estratégicos para apoiar a tomada de decisão**.
+A análise busca gerar **insights estratégicos para apoiar a tomada de decisão baseada em dados**.
 
 ---
 
@@ -27,7 +27,9 @@ Dataset público:
 
 Fonte: Kaggle
 
-O dataset contém informações sobre:
+O dataset contém informações reais de pedidos realizados em marketplaces brasileiros entre os anos de 2016 e 2018.
+
+Principais informações disponíveis no dataset:
 
 - Pedidos
 - Clientes
@@ -52,7 +54,7 @@ O dataset contém informações sobre:
 
 # 📊 Estrutura dos Dashboards
 
-O projeto foi organizado em **3 camadas de análise**.
+O projeto foi organizado em **3 camadas principais de análise**, permitindo entender o negócio sob diferentes perspectivas.
 
 ---
 
@@ -95,12 +97,12 @@ Dashboard focado no comportamento da base de clientes.
 
 - Clientes por estado
 - Ticket médio por região
-- Crescimento da base de clientes
+- Crescimento da base de clientes ao longo do tempo
 - Frequência de compra
 
 ### Insight
 
-A análise mostra que **a maioria dos clientes realiza apenas uma compra**, indicando baixa recorrência e potencial para estratégias de retenção.
+A análise mostra que **a maioria dos clientes realiza apenas uma compra**, indicando baixa recorrência e potencial para estratégias de retenção e fidelização.
 
 ---
 
@@ -129,6 +131,8 @@ Pedidos entregues com atraso apresentam **avaliações significativamente menore
 
 # 📊 Principais Insights
 
+Alguns dos principais insights identificados na análise:
+
 - O marketplace gerou aproximadamente **R$13,6 milhões em receita**
 - Foram registrados cerca de **99 mil pedidos**
 - O **ticket médio é de aproximadamente R$137**
@@ -142,13 +146,13 @@ Pedidos entregues com atraso apresentam **avaliações significativamente menore
 
 # 📊 Dashboard Power BI
 
-Devido ao tamanho do arquivo, o dashboard completo pode ser baixado no link abaixo:
+O dashboard completo em **Power BI** pode ser acessado no link abaixo:
 
 👉 **Download do Dashboard Power BI (.PBIX)**
 
 https://drive.google.com/file/d/1Kr2501ubEx2E0K7N9g71pdCxhBLW78D0/view?usp=sharing
 
-Abra o arquivo utilizando o **Power BI Desktop** para explorar o dashboard completo.
+Abra o arquivo utilizando o **Power BI Desktop** para explorar todas as análises e interações do dashboard.
 
 ---
 
@@ -156,7 +160,7 @@ Abra o arquivo utilizando o **Power BI Desktop** para explorar o dashboard compl
 
 ## Visão Geral
 
-![Dashboard Executivo](images/Pagina 01 - Visão Geral.png)
+![Dashboard Executivo](images/dashboard_visao_geral.png)
 
 ---
 
@@ -171,6 +175,7 @@ Abra o arquivo utilizando o **Power BI Desktop** para explorar o dashboard compl
 ![Dashboard Logistica](images/dashboard_logistica.png)
 
 ---
+
 
 # 💡 Competências Demonstradas
 
@@ -194,5 +199,5 @@ Este projeto demonstra habilidades em:
 
 Profissional formado em **Sistemas de Informação**, com foco em **Business Intelligence, Data Analytics e Data Visualization**.
 
-Este projeto faz parte do meu portfólio de análise de dados, demonstrando habilidades em SQL, modelagem de dados, construção de dashboards e geração de insights para tomada de decisão.
+Este projeto faz parte do meu portfólio de análise de dados, demonstrando habilidades em **SQL, modelagem de dados, criação de dashboards e geração de insights para tomada de decisão**.
 
